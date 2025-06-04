@@ -1,6 +1,6 @@
 # Hardware Design Documentation
 
-This folder contains hardware design documentation for [Thesis Title], providing supplementary information to the main thesis.
+This folder contains hardware design documentation for [Eprobe], providing supplementary information to the main thesis.
 
 ## Contents
 
