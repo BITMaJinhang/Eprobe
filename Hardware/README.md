@@ -48,7 +48,7 @@ This folder contains hardware design documentation for [Eprobe], providing suppl
 
 4. **EasyEDA Project Files**  
    - Download and import into [EasyEDA](https://pro.lceda.cn) for editing.  
-   - Requires an lcEDA account (free tier available).
+   - Requires an EasyEDA account (free tier available).
 
 ## Version Information
 
