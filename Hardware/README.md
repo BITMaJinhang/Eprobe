@@ -5,19 +5,31 @@ This folder contains hardware design documentation for [Thesis Title], providing
 ## Contents
 
 1. **BOM File**  
-   - File: [BOM Filename].xlsx  
+   - File: [BOM_EprobeV3_2].xlsx  
    - Description: Detailed list of all hardware components, including part numbers, quantities, suppliers, and specifications.
 
 2. **Schematic Diagram**  
-   - File: [Schematic Filename].pdf  
+   - File:
+   - [SCH_EprobeV3_2_1-P1.MCU].pdf
+   - [SCH_EprobeV3_2_2-P2.Power].pdf
+   - [SCH_EprobeV3_2_3-P3.ADDA].pdf
+   - [SCH_EprobeV3_2_4-P4.TIA_1].pdf
+   - [SCH_EprobeV3_2_5-P4.TIA_2].pdf
+   - [SCH_EprobeV3_2_6-P4.TIA_3].pdf
    - Description: Circuit design schematic showing component connections and signal flow.
 
 3. **PCB Layout**  
-   - File: [PCB Filename].pdf  
+   - File:
+   - [Top Layer].pdf  
+   - [Bottom Layer].pdf  
+   - [Assy_Top].pdf  
+   - [Assy_Bottom].pdf  
+   - [Int. Plane 1].pdf  
+   - [Int. Plane 2].pdf  
    - Description: Printed Circuit Board layout showing top and bottom layer traces, vias, and component placement.
 
 4. **EasyEDA Project Files**  
-   - Files: [List of EasyEDA Project Files, e.g., *.sch, *.pcb]  
+   - Files: [ProDoc_Eprobe_V3_1].epro  
    - Description: Original design files created with EasyEDA, including schematic and PCB layout projects. These files can be imported into EasyEDA for editing or modification.
 
 ## Usage Instructions
@@ -35,8 +47,8 @@ This folder contains hardware design documentation for [Thesis Title], providing
    - Helps understand component placement and board dimensions.
 
 4. **EasyEDA Project Files**  
-   - Download and import into [EasyEDA](https://easyeda.com) for editing.  
-   - Requires an EasyEDA account (free tier available).
+   - Download and import into [EasyEDA](https://pro.lceda.cn) for editing.  
+   - Requires an lcEDA account (free tier available).
 
 ## Version Information
 
